@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://storage/post/blog/</loc>
+    <loc>liubo-175/post/blog/</loc>
     <lastmod>2019-08-09T17:33:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://storage/</loc>
-    <lastmod>2019-08-09T17:33:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://storage/post/</loc>
+    <loc>liubo-175/</loc>
     <lastmod>2019-08-09T17:33:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://storage/categories/</loc>
+    <loc>liubo-175/post/</loc>
+    <lastmod>2019-08-09T17:33:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://storage/tags/</loc>
+    <loc>liubo-175/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>liubo-175/tags/</loc>
     <priority>0</priority>
   </url>
   
